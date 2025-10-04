@@ -1,5 +1,3 @@
-f2o03 3 250 1750978
-f2o03.dat 212 409.6 12 0 31 29122 0 RESP
-f2o03.dat 212 409.6 12 0 -26 17787 0 ECG
-f2o03.dat 212 409.6 12 0 135 36086 0 BP
-# Age: 85 Sex: F
+version https://git-lfs.github.com/spec/v1
+oid sha256:093f51d38453d3ad130bf58fbd998cec427127c6c2da7726c1dbdb671e4980c3
+size 159

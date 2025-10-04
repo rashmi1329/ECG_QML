@@ -1,5 +1,3 @@
-f2y05 3 250 1755360
-f2y05.dat 212 409.6 12 0 -25 43793 0 RESP
-f2y05.dat 212 409.6 12 0 -11 13806 0 ECG
-f2y05.dat 212 409.6 12 0 218 36010 0 BP
-# Age: 25 Sex: F
+version https://git-lfs.github.com/spec/v1
+oid sha256:de538fe68c7bc7b6a4ceccad35117a8bfc4a66c1d4a89dde8c0036dcb37d9c99
+size 160

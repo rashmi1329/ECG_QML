@@ -1,4 +1,3 @@
-f1o10 2 250 1813407
-f1o10.dat 16 2000 16 0 15616 -6304 0 RESP
-f1o10.dat 16 2000 16 0 15952 22704 0 ECG
-# Age: 71 Sex: F
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2140f5d18c0d40ce0b7faf4ba295946d75e7da682fdc1222dd79d442b66bef1
+size 124
